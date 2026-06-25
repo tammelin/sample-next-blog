@@ -86,3 +86,5 @@ Without this, statically generated pages bake in env var values at build time.
 # Notes
 
 `blog-starter` uses [Tailwind CSS](https://tailwindcss.com) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3).
+
+Emanuel was here.
